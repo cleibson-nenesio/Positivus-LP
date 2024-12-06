@@ -13,6 +13,17 @@ export default {
 				dark: 'var(--dark)',
 				gray: 'var(--gray)',
 			},
+			backgroundColor: {
+				primary: 'var(--primary)',
+				dark: 'var(--dark)',
+				gray: 'var(--gray)',
+			},
+			width: {
+				layout: '1440px',
+			},
+			maxWidth: {
+				layout: '1440px',
+			},
 		},
 	},
 	plugins: [],
