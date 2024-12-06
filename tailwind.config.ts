@@ -24,6 +24,14 @@ export default {
 			maxWidth: {
 				layout: '1440px',
 			},
+			fontSize: {
+				h1: '60px',
+				h2: '40px',
+				h3: '30px',
+			},
+			boxShadow: {
+				default: '0 5px 0 0 var(--dark)',
+			},
 		},
 	},
 	plugins: [],

@@ -12,23 +12,23 @@ export type Path = Record<'label' | 'path', string>;
 const PATHS: Path[] = [
 	{
 		label: 'About us',
-		path: '/about-us',
+		path: '#about-us',
 	},
 	{
 		label: 'Services',
-		path: '/services',
+		path: '#services',
 	},
 	{
 		label: 'Use Cases',
-		path: '/use-cases',
+		path: '#use-cases',
 	},
 	{
 		label: 'Pricing',
-		path: '/pricing',
+		path: '#pricing',
 	},
 	{
 		label: 'Blog',
-		path: '/blog',
+		path: '#blog',
 	},
 ];
 
